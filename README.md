@@ -1,2 +1,30 @@
 # Hospital-management-system
 Created hospital management system using Python and MySql Database
+
+#Setup Information:
+
+	====================================================
+	Project Name : Hospital Management System	   
+	Members      : 1. Yadav Rahulraj ;
+	       	       2. Devesh Patel   ; 
+	====================================================
+
+Instruction:
+
+1. Open WorkBench and import "apollohospital.sql"
+2. Open "Hospital_Management.py" in any IDLE,and
+   first of all install all the package mention at
+   top of the "Hospital_Management.py" i.e. maskpass,
+   mysql.connector... etc.
+3. Open "Hospital_Management.py" in any IDLE, if
+   have password set in WorkBench then mention that
+   password in "Hospital_Management.py" file in Admin
+   class constructor. If there is no password set in 
+   WorkBench then leave as it is.
+4. Now the setup is completed, you can run the project.
+
+#NOTE :
+username: rahul   password: Rahul
+username: devesh  password: Devesh
+
+
