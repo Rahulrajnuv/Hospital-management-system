@@ -6,10 +6,9 @@ Created hospital management system using Python and MySql Database
 	====================================================
 	Project Name : Hospital Management System	   
 	Members      : 1. Yadav Rahulraj ;
-	       	       2. Devesh Patel   ; 
 	====================================================
 
-Instruction:
+#Instruction:
 
 1. Open WorkBench and import "apollohospital.sql"
 2. Open "Hospital_Management.py" in any IDLE,and
@@ -25,6 +24,6 @@ Instruction:
 
 #NOTE :
 username: rahul   password: Rahul
-username: devesh  password: Devesh
+
 
 
