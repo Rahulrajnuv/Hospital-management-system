@@ -38,8 +38,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `username`, `password`) VALUES
-(1, 'devesh', 'b\'RGV2ZXNo\''),
-(2, 'rahul', 'b\'UmFodWw=\'');
+(1, 'devesh', 'b\'RGV2ZXNo\'');
 
 -- --------------------------------------------------------
 
