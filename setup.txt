@@ -1,7 +1,6 @@
 	====================================================
 	Project Name : Hospital Management System	   
-	Members      : 1. Yadav Rahulraj ; RollNo: 20124046
-	       	       2. Devesh Patel   ; RollNo: 20124081
+	Members      : 1. Yadav Rahulraj ;
 	====================================================
 
 Instruction:
@@ -18,7 +17,9 @@ Instruction:
    WorkBench then leave as it is.
 4. Now the setup is completed, you can run the project.
 
-NOTE : username: rahul   password: Rahul
-       username: devesh  password: Devesh
+NOTE : 
+
+username: rahul   password: Rahul
+      
 
 
